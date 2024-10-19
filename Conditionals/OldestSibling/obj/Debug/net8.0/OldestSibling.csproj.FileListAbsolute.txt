@@ -1,0 +1,15 @@
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/bin/Debug/net8.0/OldestSibling
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/bin/Debug/net8.0/OldestSibling.deps.json
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/bin/Debug/net8.0/OldestSibling.runtimeconfig.json
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/bin/Debug/net8.0/OldestSibling.dll
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/bin/Debug/net8.0/OldestSibling.pdb
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/obj/Debug/net8.0/OldestSibling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/obj/Debug/net8.0/OldestSibling.AssemblyInfoInputs.cache
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/obj/Debug/net8.0/OldestSibling.AssemblyInfo.cs
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/obj/Debug/net8.0/OldestSibling.csproj.CoreCompileInputs.cache
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/obj/Debug/net8.0/OldestSibling.sourcelink.json
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/obj/Debug/net8.0/OldestSibling.dll
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/obj/Debug/net8.0/refint/OldestSibling.dll
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/obj/Debug/net8.0/OldestSibling.pdb
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/obj/Debug/net8.0/OldestSibling.genruntimeconfig.cache
+/Users/ryanroice/GIthub/PLWork/Conditionals/OldestSibling/obj/Debug/net8.0/ref/OldestSibling.dll
