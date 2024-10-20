@@ -1,0 +1,15 @@
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/obj/Debug/net8.0/PizzaShopApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/obj/Debug/net8.0/PizzaShopApplication.AssemblyInfoInputs.cache
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/obj/Debug/net8.0/PizzaShopApplication.AssemblyInfo.cs
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/obj/Debug/net8.0/PizzaShopApplication.csproj.CoreCompileInputs.cache
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/obj/Debug/net8.0/PizzaShopApplication.sourcelink.json
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/bin/Debug/net8.0/PizzaShopApplication
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/bin/Debug/net8.0/PizzaShopApplication.deps.json
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/bin/Debug/net8.0/PizzaShopApplication.runtimeconfig.json
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/bin/Debug/net8.0/PizzaShopApplication.dll
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/bin/Debug/net8.0/PizzaShopApplication.pdb
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/obj/Debug/net8.0/PizzaShopApplication.dll
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/obj/Debug/net8.0/refint/PizzaShopApplication.dll
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/obj/Debug/net8.0/PizzaShopApplication.pdb
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/obj/Debug/net8.0/PizzaShopApplication.genruntimeconfig.cache
+/Users/ryanroice/GIthub/PLWork/Conditionals/PizzaShopApplication/obj/Debug/net8.0/ref/PizzaShopApplication.dll
