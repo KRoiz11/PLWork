@@ -1,0 +1,15 @@
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/bin/Debug/net8.0/ParkingSensorsApplication
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/bin/Debug/net8.0/ParkingSensorsApplication.deps.json
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/bin/Debug/net8.0/ParkingSensorsApplication.runtimeconfig.json
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/bin/Debug/net8.0/ParkingSensorsApplication.dll
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/bin/Debug/net8.0/ParkingSensorsApplication.pdb
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/obj/Debug/net8.0/ParkingSensorsApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/obj/Debug/net8.0/ParkingSensorsApplication.AssemblyInfoInputs.cache
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/obj/Debug/net8.0/ParkingSensorsApplication.AssemblyInfo.cs
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/obj/Debug/net8.0/ParkingSensorsApplication.csproj.CoreCompileInputs.cache
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/obj/Debug/net8.0/ParkingSensorsApplication.sourcelink.json
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/obj/Debug/net8.0/ParkingSensorsApplication.dll
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/obj/Debug/net8.0/refint/ParkingSensorsApplication.dll
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/obj/Debug/net8.0/ParkingSensorsApplication.pdb
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/obj/Debug/net8.0/ParkingSensorsApplication.genruntimeconfig.cache
+/Users/ryanroice/GIthub/PLWork/Conditionals/ParkingSensorsApplication/obj/Debug/net8.0/ref/ParkingSensorsApplication.dll
