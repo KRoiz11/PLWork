@@ -1,0 +1,15 @@
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/obj/Debug/net8.0/CinemaApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/obj/Debug/net8.0/CinemaApp.AssemblyInfoInputs.cache
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/obj/Debug/net8.0/CinemaApp.AssemblyInfo.cs
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/obj/Debug/net8.0/CinemaApp.csproj.CoreCompileInputs.cache
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/obj/Debug/net8.0/CinemaApp.sourcelink.json
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/bin/Debug/net8.0/CinemaApp
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/bin/Debug/net8.0/CinemaApp.deps.json
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/bin/Debug/net8.0/CinemaApp.runtimeconfig.json
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/bin/Debug/net8.0/CinemaApp.dll
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/bin/Debug/net8.0/CinemaApp.pdb
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/obj/Debug/net8.0/CinemaApp.dll
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/obj/Debug/net8.0/refint/CinemaApp.dll
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/obj/Debug/net8.0/CinemaApp.pdb
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/obj/Debug/net8.0/CinemaApp.genruntimeconfig.cache
+/Users/ryanroice/GIthub/PLWork/Loops/CinemaApp/obj/Debug/net8.0/ref/CinemaApp.dll
