@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TardyTrains/1.0.0": {
+        "runtime": {
+          "TardyTrains.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TardyTrains/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

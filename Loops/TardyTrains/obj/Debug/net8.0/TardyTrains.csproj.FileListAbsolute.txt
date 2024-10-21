@@ -1,0 +1,15 @@
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/obj/Debug/net8.0/TardyTrains.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/obj/Debug/net8.0/TardyTrains.AssemblyInfoInputs.cache
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/obj/Debug/net8.0/TardyTrains.AssemblyInfo.cs
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/obj/Debug/net8.0/TardyTrains.csproj.CoreCompileInputs.cache
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/obj/Debug/net8.0/TardyTrains.sourcelink.json
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/bin/Debug/net8.0/TardyTrains
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/bin/Debug/net8.0/TardyTrains.deps.json
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/bin/Debug/net8.0/TardyTrains.runtimeconfig.json
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/bin/Debug/net8.0/TardyTrains.dll
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/bin/Debug/net8.0/TardyTrains.pdb
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/obj/Debug/net8.0/TardyTrains.dll
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/obj/Debug/net8.0/refint/TardyTrains.dll
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/obj/Debug/net8.0/TardyTrains.pdb
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/obj/Debug/net8.0/TardyTrains.genruntimeconfig.cache
+/Users/ryanroice/GIthub/PLWork/Loops/TardyTrains/obj/Debug/net8.0/ref/TardyTrains.dll
