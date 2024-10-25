@@ -1,0 +1,15 @@
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/bin/Debug/net8.0/Intro
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/bin/Debug/net8.0/Intro.deps.json
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/bin/Debug/net8.0/Intro.runtimeconfig.json
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/bin/Debug/net8.0/Intro.dll
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/bin/Debug/net8.0/Intro.pdb
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/obj/Debug/net8.0/Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/obj/Debug/net8.0/Intro.AssemblyInfoInputs.cache
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/obj/Debug/net8.0/Intro.AssemblyInfo.cs
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/obj/Debug/net8.0/Intro.csproj.CoreCompileInputs.cache
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/obj/Debug/net8.0/Intro.sourcelink.json
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/obj/Debug/net8.0/Intro.dll
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/obj/Debug/net8.0/refint/Intro.dll
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/obj/Debug/net8.0/Intro.pdb
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/obj/Debug/net8.0/Intro.genruntimeconfig.cache
+/Users/ryanroice/GIthub/PLWork/Arrays/Intro/obj/Debug/net8.0/ref/Intro.dll

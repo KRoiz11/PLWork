@@ -1,0 +1,15 @@
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/obj/Debug/net8.0/DigitalPortfolioMarks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/obj/Debug/net8.0/DigitalPortfolioMarks.AssemblyInfoInputs.cache
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/obj/Debug/net8.0/DigitalPortfolioMarks.AssemblyInfo.cs
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/obj/Debug/net8.0/DigitalPortfolioMarks.csproj.CoreCompileInputs.cache
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/obj/Debug/net8.0/DigitalPortfolioMarks.sourcelink.json
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/bin/Debug/net8.0/DigitalPortfolioMarks
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/bin/Debug/net8.0/DigitalPortfolioMarks.deps.json
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/bin/Debug/net8.0/DigitalPortfolioMarks.runtimeconfig.json
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/bin/Debug/net8.0/DigitalPortfolioMarks.dll
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/bin/Debug/net8.0/DigitalPortfolioMarks.pdb
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/obj/Debug/net8.0/DigitalPortfolioMarks.dll
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/obj/Debug/net8.0/refint/DigitalPortfolioMarks.dll
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/obj/Debug/net8.0/DigitalPortfolioMarks.pdb
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/obj/Debug/net8.0/DigitalPortfolioMarks.genruntimeconfig.cache
+/Users/ryanroice/GIthub/PLWork/Arrays/DigitalPortfolioMarks/obj/Debug/net8.0/ref/DigitalPortfolioMarks.dll
