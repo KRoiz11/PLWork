@@ -1,0 +1,15 @@
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/obj/Debug/net8.0/1 Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/obj/Debug/net8.0/1 Even Numbers.AssemblyInfoInputs.cache
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/obj/Debug/net8.0/1 Even Numbers.AssemblyInfo.cs
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/obj/Debug/net8.0/1 Even Numbers.csproj.CoreCompileInputs.cache
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/obj/Debug/net8.0/1 Even Numbers.sourcelink.json
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/bin/Debug/net8.0/1 Even Numbers
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/bin/Debug/net8.0/1 Even Numbers.deps.json
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/bin/Debug/net8.0/1 Even Numbers.runtimeconfig.json
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/bin/Debug/net8.0/1 Even Numbers.dll
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/bin/Debug/net8.0/1 Even Numbers.pdb
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/obj/Debug/net8.0/1 Even Numbers.dll
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/obj/Debug/net8.0/refint/1 Even Numbers.dll
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/obj/Debug/net8.0/1 Even Numbers.pdb
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/obj/Debug/net8.0/1 Even Numbers.genruntimeconfig.cache
+/Users/ryanroice/Github/PLWork/Strings/1 Even Numbers/obj/Debug/net8.0/ref/1 Even Numbers.dll

@@ -1,0 +1,15 @@
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/bin/Debug/net8.0/StaffRecords
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/bin/Debug/net8.0/StaffRecords.deps.json
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/bin/Debug/net8.0/StaffRecords.runtimeconfig.json
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/bin/Debug/net8.0/StaffRecords.dll
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/bin/Debug/net8.0/StaffRecords.pdb
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/obj/Debug/net8.0/StaffRecords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/obj/Debug/net8.0/StaffRecords.AssemblyInfoInputs.cache
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/obj/Debug/net8.0/StaffRecords.AssemblyInfo.cs
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/obj/Debug/net8.0/StaffRecords.csproj.CoreCompileInputs.cache
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/obj/Debug/net8.0/StaffRecords.sourcelink.json
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/obj/Debug/net8.0/StaffRecords.dll
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/obj/Debug/net8.0/refint/StaffRecords.dll
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/obj/Debug/net8.0/StaffRecords.pdb
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/obj/Debug/net8.0/StaffRecords.genruntimeconfig.cache
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/StaffRecords/obj/Debug/net8.0/ref/StaffRecords.dll

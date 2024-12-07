@@ -10,7 +10,6 @@ If the value of the food is more than £14 then they can get free delivery and a
 string temp = "";
 
 Console.WriteLine("Welcome to the Pizza Shop Application!");
- 
 Console.WriteLine("What was the value of your order?");
 
 int Value = int.Parse(Console.ReadLine());
@@ -27,4 +26,4 @@ if (Value >= 10)
     }
 }
 
-Console.WriteLine("Te total cost of your order is £" + Value + temp);
+Console.WriteLine("The total cost of your order is £" + Value + temp);

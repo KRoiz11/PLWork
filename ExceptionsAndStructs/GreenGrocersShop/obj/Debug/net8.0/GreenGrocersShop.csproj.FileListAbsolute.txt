@@ -1,0 +1,15 @@
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/bin/Debug/net8.0/GreenGrocersShop
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/bin/Debug/net8.0/GreenGrocersShop.deps.json
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/bin/Debug/net8.0/GreenGrocersShop.runtimeconfig.json
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/bin/Debug/net8.0/GreenGrocersShop.dll
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/bin/Debug/net8.0/GreenGrocersShop.pdb
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/obj/Debug/net8.0/GreenGrocersShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/obj/Debug/net8.0/GreenGrocersShop.AssemblyInfoInputs.cache
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/obj/Debug/net8.0/GreenGrocersShop.AssemblyInfo.cs
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/obj/Debug/net8.0/GreenGrocersShop.csproj.CoreCompileInputs.cache
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/obj/Debug/net8.0/GreenGrocersShop.sourcelink.json
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/obj/Debug/net8.0/GreenGrocersShop.dll
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/obj/Debug/net8.0/refint/GreenGrocersShop.dll
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/obj/Debug/net8.0/GreenGrocersShop.pdb
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/obj/Debug/net8.0/GreenGrocersShop.genruntimeconfig.cache
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GreenGrocersShop/obj/Debug/net8.0/ref/GreenGrocersShop.dll

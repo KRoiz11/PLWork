@@ -1,0 +1,15 @@
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/bin/Debug/net8.0/GetNumberInRange
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/bin/Debug/net8.0/GetNumberInRange.deps.json
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/bin/Debug/net8.0/GetNumberInRange.runtimeconfig.json
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/bin/Debug/net8.0/GetNumberInRange.dll
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/bin/Debug/net8.0/GetNumberInRange.pdb
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/obj/Debug/net8.0/GetNumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/obj/Debug/net8.0/GetNumberInRange.AssemblyInfoInputs.cache
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/obj/Debug/net8.0/GetNumberInRange.AssemblyInfo.cs
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/obj/Debug/net8.0/GetNumberInRange.csproj.CoreCompileInputs.cache
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/obj/Debug/net8.0/GetNumberInRange.sourcelink.json
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/obj/Debug/net8.0/GetNumberInRange.dll
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/obj/Debug/net8.0/refint/GetNumberInRange.dll
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/obj/Debug/net8.0/GetNumberInRange.pdb
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/obj/Debug/net8.0/GetNumberInRange.genruntimeconfig.cache
+/Users/ryanroice/Github/PLWork/ExceptionsAndStructs/GetNumberInRange/obj/Debug/net8.0/ref/GetNumberInRange.dll
