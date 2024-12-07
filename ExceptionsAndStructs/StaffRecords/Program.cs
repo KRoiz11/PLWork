@@ -4,7 +4,6 @@ string filename = "StaffRecords.csv";
 
 if (File.Exists(filename))
 {
-    StreamReader reader = new StreamReader(filename);
 
     string [] lines = File.ReadAllLines(filename);
 
@@ -30,9 +29,9 @@ if (File.Exists(filename))
             if (records[i].Salary > records[i+1].Salary)
             {
                 sorted = false;
-                int temp = records[i+1].Salary;
-                records[i+1].Salary = records[i].Salary;
-                records[i].Salary = temp;
+                StaffRecord temp = records[i+1];
+                records[i+1] = records[i];
+                records[i] = temp;
             }
         }
 
@@ -43,7 +42,6 @@ if (File.Exists(filename))
         Console.WriteLine($"{records[i].FirstName} {records[i].Surname} has made ${records[i].Salary} this year!");
     }
 
-    reader.Close();
 }
 else
 {
